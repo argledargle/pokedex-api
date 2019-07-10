@@ -1,0 +1,28 @@
+{
+  "name": "pokedex-api",
+  "version": "1.0.0",
+  "description": "Created a Pokedex as a project to work on server-side technologies.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argledargle/pokedex-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argledargle/pokedex-api/issues"
+  },
+  "homepage": "https://github.com/argledargle/pokedex-api#readme"
+}
