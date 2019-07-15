@@ -23,6 +23,9 @@
     "url": "git+https://github.com/argledargle/pokedex-api.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "10.15.3"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
